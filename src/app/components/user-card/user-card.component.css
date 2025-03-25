@@ -1,0 +1,32 @@
+.user-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .user-card h3 {
+    margin: 0 0 10px;
+    color: #333;
+  }
+  
+  .user-card p {
+    margin: 5px 0;
+    color: #666;
+  }  
+
+  
+  .user-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+  }
+  
+  .descripcion {
+    font-style: italic;
+    color: gray;
+  }
+  
