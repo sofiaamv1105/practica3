@@ -5,8 +5,8 @@ import { UserCardComponent } from '../../components/user-card/user-card.componen
 
 @Component({
   selector: 'app-home-users',
-  standalone: true, // Asegura que el componente sea standalone
-  imports: [CommonModule, UserCardComponent], // Importa módulos correctamente
+  standalone: true, 
+  imports: [CommonModule, UserCardComponent], 
   templateUrl: './home-users.component.html',
   styleUrls: ['./home-users.component.css']
 })
